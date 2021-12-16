@@ -43,8 +43,8 @@ From now, we will refer to:
 * `rnn` as one of the elements in the set `{lstm, gru}`
 
 **NOTE:**
-* You can download all the [extracted features]{https://drive.google.com/drive/folders/1kNOISCfXQJKkcgia9JteZJCAwC1VG41g?usp=sharing} (for training, testing, and validating) for each model as pickle files and place them under `features/`, so you can just use these to save time.
-* You can also download the [trained model dicts]{https://drive.google.com/drive/folders/1CcGLSNILf3-Q9HT9NZENDVTDCVO35R35?usp=sharing} and place them under `trained/`
+* You can download all the [extracted features](https://drive.google.com/drive/folders/1kNOISCfXQJKkcgia9JteZJCAwC1VG41g?usp=sharing) (for training, testing, and validating) for each model as pickle files and place them under `features/`, so you can just use these to save time.
+* You can also download the [trained model dicts](https://drive.google.com/drive/folders/1CcGLSNILf3-Q9HT9NZENDVTDCVO35R35?usp=sharing) and place them under `trained/`
 
 ### Training
 
