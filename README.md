@@ -2,7 +2,9 @@ Automatic Image Captioning
 ==========================
 
 EECS 595: Natural Language Processing, Fall 2021
+
 University of Michigan - Ann Arbor
+
 Group 29: Q Cong (congq@umich.edu), Rohan Naik (rgnaik@umich.edu)
 
 # Instructions
