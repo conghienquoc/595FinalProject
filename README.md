@@ -101,6 +101,8 @@ For example, after training the ResNet50/LSTM model as above (and obtaining `tra
 
 The scores will be printed in stdout.
 
+### MS Azure Model
+In order to use the MS Azure model, you will need to create an account and get a subscription. There is a 1 year free trial which was used for this project. On MS Azure, create a Computer Vision module through Cognitive Services. Add the key and endpoint to ms_captions.py and run to get the captions back. The script is set up so it doesn't go past Azure's limit of 20 operations per minute.
 
 ### Train and Test MMBERT
 
