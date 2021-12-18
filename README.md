@@ -31,13 +31,6 @@ pip install -r requirements.txt
 ./caption.sh extract_data
 ```
 
-"Invalid input. Run the code using one of the following formats:\n"
-"1)\t train [cnn_model = {vgg, resnet, squeezenet}] [rnn_model = {gru, lstm}] [optional: path to training features] [optional: path to validation features]\n"
-"2)\t evaluate [cnn_model = {vgg, resnet, squeezenet}] [path to trained_dict] [optional: path to testing features]\n\n"
-"2)\t bleu [path to trained_dict] [path to features] [path to captions] [sample size]\n\n"
-"For example, to train on ResNet and LSTM, use\n"
-"train resnet lstm"
-
 ## Working with model
 
 From now, we will refer to:
